@@ -1,5 +1,5 @@
 // 1. CONFIGURATION
-const contractAddress = "YOUR_CONTRACT_ADDRESS_HERE"; // Paste your address from Remix
+const contractAddress = "0x63ce567667A7bDF8ABbd4A34523D906e757DBdE0";
 const contractABI = [
   /* Paste your ABI array from Remix here */
 ];
